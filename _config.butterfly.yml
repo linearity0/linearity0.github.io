@@ -46,6 +46,7 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
+  fab fa-github: https://github.com/linearity0 || Github || '#24292e'
   # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
 
@@ -286,10 +287,10 @@ aside:
     enable: true
     description:
     button:
-      enable: true
+      enable: false
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/linearity0
   card_announcement:
     enable: true
     content: This is my Blog

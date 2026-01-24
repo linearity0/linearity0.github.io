@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: my blog
-subtitle: ''
+title: linearity's Blog
+subtitle: 'code & math'
 description: ''
 keywords:
-author: John Doe
+author: linearity
 language: en
 timezone: 'Asia/Shanghai'
 
