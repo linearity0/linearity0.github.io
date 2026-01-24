@@ -18,6 +18,9 @@ nav:
   fixed: false
 
 menu:
+  Language:
+    简体中文: / || fas fa-language
+    English: /en/ || fas fa-globe
   # Home: / || fas fa-home
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music

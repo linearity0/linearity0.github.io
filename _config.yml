@@ -8,7 +8,7 @@ subtitle: 'code & math'
 description: ''
 keywords:
 author: linearity
-language: en
+language: [zh-CN, en]
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -106,3 +106,11 @@ deploy:
   type: git
   repo: git@github.com:linearity0/linearity0.github.io.git
   branch: main
+
+hexo_generator_i18n:
+  type: [page, post]
+  generator:
+    - index
+    - archive
+    - category
+    - tag
