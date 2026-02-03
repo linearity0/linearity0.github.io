@@ -1,0 +1,21 @@
+/* source/css/math-fix.css */
+
+/* 1. 强制让 KaTeX 容器显示出来 */
+span.katex {
+  display: inline-block !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  font-size: 1.1em !important;
+}
+
+/* 2. 隐藏盲文层 (防止双重显示) */
+span.katex .katex-mathml {
+  display: none !important; 
+  position: absolute; 
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
+/* 3. 显形视觉层 */
+span.katex .katex-html {
+  display: block !important;
+}

@@ -114,3 +114,15 @@ hexo_generator_i18n:
     - archive
     - category
     - tag
+    
+# markdown-it-plus 渲染器配置
+markdown_it_plus:
+  html: true
+  xhtmlOut: true
+  breaks: true
+  langPrefix: 'language-'
+  linkify: true
+  typographer: true
+  quotes: '“”‘’'
+  plugins:
+    - markdown-it-katex
