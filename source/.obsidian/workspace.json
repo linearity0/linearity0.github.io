@@ -11,14 +11,12 @@
             "id": "9738389bf0bf5110",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_posts/Markdown 语法.md",
-                "mode": "source",
-                "source": true
+                "file": "img/favicon1.png"
               },
-              "icon": "lucide-file",
-              "title": "Markdown 语法"
+              "icon": "lucide-image",
+              "title": "favicon1"
             }
           }
         ]
@@ -185,6 +183,10 @@
   },
   "active": "9738389bf0bf5110",
   "lastOpenFiles": [
+    "_posts/Markdown 语法.md",
+    "img/favicon1.png",
+    "img/favicon.png",
+    "img/android-chrome-512x512.png",
     "css/math-fix.css",
     "css/css",
     "css"
